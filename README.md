@@ -1,12 +1,12 @@
-### Olá 👋
+### Olá, eu me chamo Vinicius! 👋
 
 - 🌱 Eu estou atualmente estudando Javascript, HTML e CSS
 
 ##
 <div align="left">
   <a href="https://github.com/ViiniciusGM">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ViiniciusGM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <br>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViiniciusGM&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ViiniciusGM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViiniciusGM&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ##
