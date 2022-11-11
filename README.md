@@ -20,7 +20,7 @@
 ##
 <div align="center">
   
-  ![Snake animation](https://github.com/ViiniciusGM/ViiniciusGM/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/viniciusamc/viniciusamc/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
