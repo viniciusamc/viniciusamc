@@ -79,22 +79,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=viniciusamc&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusamc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-<br/>  
   
-<br/>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=viniciusamc&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
+![](https://github-profile-trophy.vercel.app/?username=viniciusamc&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ----
